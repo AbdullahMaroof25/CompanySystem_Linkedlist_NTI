@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1667074037 source:e:\nti_training\project\nti_project\gui.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"System_Private.h"
+	"System_Interface.h"
+
+1667073010 source:e:\nti_training\project\nti_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StdTypes.h"
+	"System_Interface.h"
+	"System_Private.h"
+
+1666997536 e:\nti_training\project\nti_project\stdtypes.h
+
+1666998230 e:\nti_training\project\nti_project\system_interface.h
+	"StdTypes.h"
+
+1666813199 e:\nti_training\project\nti_project\system_config.h
+
+1667072913 source:e:\nti_training\project\nti_project\system_program.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"System_Private.h"
+	"System_Interface.h"
+
+1666997558 e:\nti_training\project\nti_project\system_private.h
+	"System_Interface.h"
+
